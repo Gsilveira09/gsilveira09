@@ -12,14 +12,6 @@ Tenho interesse em Linux, software livre e tecnologia.
 
 ---
 
-## 🧠 Sobre mim
-
-- Gosto de aprender coisas novas todos os dias  
-- Curto automação e scripts em Python  
-- Interesse em sistemas Linux e terminal  
-
----
-
 ## 🖥️ Ambiente
 
 - Arch Linux  
@@ -27,26 +19,10 @@ Tenho interesse em Linux, software livre e tecnologia.
 
 ---
 
-## 📚 Atualmente estou aprendendo
-
-- Automação com Python  
-- Desenvolvimento backend  
-- Ferramentas Linux  
-
----
-
 ## 🚀 Projetos
 
 - Scripts  
 - Pequenos projetos em Python  
-
----
-
-## 🎯 Objetivos
-
-- Aprender mais sobre backend  
-- Criar projetos próprios em Python  
-- Melhorar no Linux e shell scripting  
 
 ---
 
