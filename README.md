@@ -6,13 +6,7 @@
 ![i3wm](https://img.shields.io/badge/i3wm-4C566A?style=for-the-badge)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gsilveira09&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsilveira09&layout=compact&theme=tokyonight)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=Gsilveira09&show_icons=true)
 ---
 
 Meu nome é Guilherme.  
