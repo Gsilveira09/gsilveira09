@@ -6,6 +6,8 @@
 ![i3wm](https://img.shields.io/badge/i3wm-4C566A?style=for-the-badge)
 
 ---
+![Stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Gsilveira09&show_icons=true&theme=dracula)
+---
 
 Meu nome é Guilherme.  
 Sou programador iniciante e atualmente programo em Python.  
