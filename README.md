@@ -1,23 +1,31 @@
-## Olá seja bem vindo ao meu perfil
+# Olá, seja bem-vindo ao meu perfil 👋
 
-Meu nome é Guilherme.<br>
-Sou programador iniciante atualmente programo em python.<br>
+Meu nome é Guilherme.  
+Sou programador iniciante atualmente programo em Python.  
 Tenho interesse em Linux, software livre e tecnologia.
-##  Ambiente
+
+---
+
+## 🖥️ Ambiente
 
 - Arch Linux
 - i3wm
 
- ## Atualmente estou aprendendo
+---
+
+## 📚 Atualmente estou aprendendo
 
 - Automação com Python
 - Desenvolvimento backend
 - Ferramentas Linux
 
-## Projetos
+---
 
--  Scripts
--  Pequenos projetos em python
+## 🚀 Projetos
+
+- Scripts
+- Pequenos projetos em Python
 
 ---
-## obrigado por visitar meu perfil!
+
+## Obrigado por visitar meu perfil! 👍
