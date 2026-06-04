@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá seja bem vindo ao meu perfil
 
-<!--
-**Gsilveira09/gsilveira09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Guilherme.<br>
+Sou programador iniciante atualmente programo em python.<br>
+Tenho interesse em Linux, software livre e tecnologia.
+##  Ambiente
 
-Here are some ideas to get you started:
+- Arch Linux
+- i3wm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Atualmente estou aprendendo
+
+- Automação com Python
+- Desenvolvimento backend
+- Ferramentas Linux
+
+## Projetos
+
+-  Scripts
+-  Pequenos projetos em python
+
+---
+## obrigado por visitar meu perfil!
